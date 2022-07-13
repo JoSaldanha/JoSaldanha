@@ -1,1 +1,1 @@
-- <h2>Sou Josimar Saldanha, um adepto da programação. <img src="https://cdn3.emoji.gg/emojis/7463-solaire.png" width="32px" height="32px" alt="Solaire"></h2> 
+- <h3>Sou Josimar Saldanha, um adepto da programação. <img src="https://cdn3.emoji.gg/emojis/7463-solaire.png" width="16px" height="16px" alt="Solaire"></h3> 
