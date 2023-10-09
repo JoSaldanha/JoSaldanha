@@ -10,10 +10,7 @@
 
 <br>
 
-- Desenvolvedor Full-stack
-- Leitor dedicado e eterno aprendiz
-- Atualmente estudando Desenvolvimento Web na Trybe
-- Estou aberto a novas possibilidades e oportunidades
+Olá! Sou um desenvolvedor full-stack apaixonado por Machine Learning. Tenho grande interesse em expandir meu conhecimento por meio da leitura de livros de alta qualidade e pela exploração de novos tópicos. Ficaria muito grato se você pudesse me enviar recomendações de livros ou conectarmos no LinkedIn para trocarmos ideias e experiências!
 
 <br><br>
 
